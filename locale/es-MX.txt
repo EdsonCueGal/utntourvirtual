@@ -1,0 +1,575 @@
+#: locale=es-MX
+
+## Acción
+
+### PDF
+PopupPDFBehaviour_0A2DBC51_2A18_2DC5_41C3_410075C4ED81.url = files/PRECIOS%20Y%20TARIFAS%20%20UTN%202024_es-MX.pdf
+
+### URL
+LinkBehaviour_30549B75_2868_569C_41A3_B884EAB4B353.source = http://vinculos.utn.edu.mx/planes_programas/view/INGDesarrolloGestionSoftware.php
+LinkBehaviour_303AA04A_2868_F2F4_41C2_793BE9616D11.source = http://vinculos.utn.edu.mx/planes_programas/view/INGDesarrolloGestionSoftware.php
+LinkBehaviour_3B7D1242_2878_56F4_418D_D5A3D13C096F.source = http://vinculos.utn.edu.mx/planes_programas/view/INGEntornosVirtualesNegociosDigitales.php
+LinkBehaviour_3EAE4E5A_29A8_4E94_4185_CC9C04934E4C.source = http://vinculos.utn.edu.mx/planes_programas/view/INGMecatronica.php
+LinkBehaviour_3E396D32_29A8_D294_41C1_EDB511812E39.source = http://vinculos.utn.edu.mx/planes_programas/view/INGMecatronica.php
+LinkBehaviour_3BA85804_28A8_527C_41BB_659616924EDB.source = http://vinculos.utn.edu.mx/planes_programas/view/INGRedesInteligentesyCiberseguridad.php
+LinkBehaviour_3C77E4B7_28DF_B39C_41C3_213AA2A64D6F.source = http://vinculos.utn.edu.mx/planes_programas/view/INGTecnologiaAmbiental.php
+LinkBehaviour_30B2CFDB_2858_4D8A_41C1_8DD4F8DBE368.source = http://vinculos.utn.edu.mx/planes_programas/view/INGTecnologiasdelaProduccion.php
+LinkBehaviour_30FEDB68_2858_56B4_41AF_597887988B7D.source = http://vinculos.utn.edu.mx/planes_programas/view/INGTecnologiasdelaProduccion.php
+LinkBehaviour_30228648_2879_BEF4_41A5_A4EF79CBBBDD.source = http://vinculos.utn.edu.mx/planes_programas/view/LICCapitalHumano.php
+LinkBehaviour_324B207B_2859_F294_419D_CBCEB4E516C1.source = http://vinculos.utn.edu.mx/planes_programas/view/LicInnovacionNegociosMercadotecnia.php
+LinkBehaviour_306C2083_2868_D274_41A3_C0DD1DB09105.source = http://vinculos.utn.edu.mx/planes_programas/view/TIDesarrollodeSoftwareMultiplataforma.php
+LinkBehaviour_30022749_2868_5EF7_41C3_CDA463BC7081.source = http://vinculos.utn.edu.mx/planes_programas/view/TIDesarrollodeSoftwareMultiplataforma.php
+LinkBehaviour_309D0BA2_2878_75B4_41B1_B28A87B729F1.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUAdministracionCapitalHumano.php
+LinkBehaviour_3C0B6875_28F8_B29C_41B5_ABBD47B1A7A5.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUMantenimientoAeronautico.php
+LinkBehaviour_31AD53E2_29A8_55B4_41BE_C5296A06B78C.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUMecatronicaAreaSistemasManufacturaFlexible.php
+LinkBehaviour_30135270_29A8_5694_4181_BB91B04C6F44.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUMecatronicaAreaSistemasManufacturaFlexible.php
+LinkBehaviour_31D8EFCC_2858_CD8D_41A0_15F1D597BD80.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUProcesosIndustrialesManufactura.php
+LinkBehaviour_30747258_2858_B694_4191_9C00A900A3C4.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUProcesosIndustrialesManufactura.php
+LinkBehaviour_3D392878_28A8_B294_41A4_C34D305B8ACD.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUQuimicaAmbiental.php
+LinkBehaviour_75C8FF67_2481_32AC_41BD_1FEFAA3192DD.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUTIEntornosVirtualesyNegociosDigitales.php
+LinkBehaviour_3A02697B_2859_B294_4189_D2BB1EE8C442.source = http://vinculos.utn.edu.mx/planes_programas/view/TSUTIInfraestructuraRedesDigitales.php
+LinkBehaviour_30D17721_2869_BEB4_4188_BFE1750ECEB3.source = http://vinculos.utn.edu.mx/planes_programas/view/mtrGestionInovacionOrg.php
+LinkBehaviour_3382D78A_285B_BE74_4195_4F3EE56D632B.source = http://vinculos.utn.edu.mx/planes_programas/view/mtrInnovacionNegocio.php
+LinkBehaviour_3C324B88_28E8_D674_4167_1C43ED18127A.source = http://vinculos.utn.edu.mx/planes_programas/view/mtrSistemaGestionAmb.php
+LinkBehaviour_A1BB4CA4_B7FA_035C_4152_EBBA07E8F464.source = https://maps.app.goo.gl/BvsaaFjYxeyjE8FDA
+LinkBehaviour_A2C741F1_B816_04B4_41A0_0A6B9374800B.source = https://maps.app.goo.gl/BvsaaFjYxeyjE8FDA
+LinkBehaviour_A36F403A_B816_03B5_41C8_321064A7A709.source = https://utn.edomex.gob.mx/
+LinkBehaviour_08687B02_2483_1265_41B5_F68CB1BDF96D.source = https://utn.edomex.gob.mx/acerca-utn
+LinkBehaviour_0828C813_2483_7E64_41BA_10D23CC6E553.source = https://utn.edomex.gob.mx/acerca-utn
+LinkBehaviour_0A7B8717_2483_126C_41C0_25920BDF0B8A.source = https://utn.edomex.gob.mx/alumnos
+LinkBehaviour_35A400F2_29D8_D394_41A4_450EC6025F6F.source = https://utn.edomex.gob.mx/biblioteca
+LinkBehaviour_354AE5C3_29D8_FDF4_41AE_020EF6E7BB51.source = https://utn.edomex.gob.mx/biblioteca
+LinkBehaviour_0B6610B5_2481_2FAF_41AB_2E13E1158871.source = https://utn.edomex.gob.mx/educacion-continua
+LinkBehaviour_0BBA0F87_2483_126A_41A9_80E7F978B7A8.source = https://utn.edomex.gob.mx/educacion-continua
+LinkBehaviour_0A68C694_2483_126C_41C2_7757787EE307.source = https://utn.edomex.gob.mx/egresados
+LinkBehaviour_0A23EC07_2481_166C_41BB_C0FE09ABD473.source = https://utn.edomex.gob.mx/estadia-profesional
+LinkBehaviour_0A2D8E85_2483_126C_41B5_90CE80A46E09.source = https://utn.edomex.gob.mx/incubadora
+LinkBehaviour_09A736E2_2487_13A4_4191_494E2517093F.source = https://utn.edomex.gob.mx/servicio-social
+LinkBehaviour_09CB39F9_2487_31A7_41B3_C4ADDCA3834E.source = https://utn.edomex.gob.mx/servicio-social
+LinkBehaviour_149BE703_248F_3264_41B8_C1C1302C43EC.source = https://utn.edomex.gob.mx/titular
+LinkBehaviour_300EE5C1_29A8_5DF7_41C1_51149C779609.source = https://utn.edomex.gob.mx/vinculacion
+LinkBehaviour_3292FC5F_28A8_528C_41C3_3FC9F865AB3A.source = https://vinculos.utn.edu.mx/planes_programas/view/TSUDesarrolloNegociosMercadotecnia.php
+WebFrame_198A3B12_1666_89B6_41B5_4C2585EFD00E_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.705083191976!2d-98.9863499794097!3d19.403437021612827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e3315788b631%3A0x667690c1499579bf!2sUTN%20-%20Universidad%20Tecnol%C3%B3gica%20de%20Nezahualc%C3%B3yotl!5e0!3m2!1ses-419!2smx!4v1720769083997!5m2!1ses-419!2smx
+WebFrame_A2C5B1F1_B816_04B4_41C3_E0BEB6406EA6.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.705083191976!2d-98.9863499794097!3d19.403437021612827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e3315788b631%3A0x667690c1499579bf!2sUTN%20-%20Universidad%20Tecnol%C3%B3gica%20de%20Nezahualc%C3%B3yotl!5e0!3m2!1ses-419!2smx!4v1720769083997!5m2!1ses-419!2smx
+
+## E-Learning
+
+### Nombre Puntuación
+score1.label = Puntuación 1
+
+### Pantalla Fin de Tiempo
+quizTimeout_2E785D44_23E7_6043_419C_878C63420202.title = - TIMEOUT -
+quizTimeout_2E785D44_23E7_6043_419C_878C63420202.repeat = Repeat
+quizTimeout_2E785D44_23E7_6043_419C_878C63420202.score = View Score
+
+### Pantalla Pregunta
+quizQuestion_2E7B6D49_23E7_6045_41AA_9B8665A41E21.ok = OK
+
+### Pantalla Reporte
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.title = - SCORE -
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.completion = Completed
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.questionsCorrect = Correct
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.downloadCSV = Download .csv
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.questionsIncorrect = Incorrect
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.items = Items Found
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.questions = Questions
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.repeat = Repeat
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.submitToLMS = Submit
+quizScore_2E757D49_23E7_6045_41BB_5C3A7BA1AFAB.elapsedTime = Time
+
+## Hotspot
+
+### Texto
+FlatHotspotPanoramaOverlayTextImage_3819F964_243F_E043_418A_553F2EAAE803.text = Bienvenido al recorrido virtual de la Universidad Tecnológica de Nezahualcóyotl
+FlatHotspotPanoramaOverlayTextImage_38B150A8_243F_60C3_41B5_143395896B2A.text = CONTROLES
+FlatHotspotPanoramaOverlayTextImage_3894350E_243F_A1DE_417A_052CC87F2A65.text = CREDITOS
+HotspotPanoramaOverlayTextImage_317D4200_2868_F674_41B6_E8F0A3605628.text = DIVISIÓN DE ADMINISTRACIÓN DE EMPRESAS
+HotspotPanoramaOverlayTextImage_3BF597CA_28E8_7DF4_41A6_48452BF6569D.text = DIVISIÓN DE AVIÓNICA
+HotspotPanoramaOverlayTextImage_30617BDC_28B9_B58C_41C1_11AB058D5D9E.text = DIVISIÓN DE COMERCIALIZACIÓN
+HotspotPanoramaOverlayTextImage_30EF4A99_2878_D794_41B9_92F28F6B1415.text = DIVISIÓN DE INFORMÁTICA Y COMPUTACIÓN
+HotspotPanoramaOverlayTextImage_3C87A774_28F9_FE9C_417C_4F59F99DAFF3.text = DIVISIÓN DE TECNOLOGÍA AMBIENTAL
+HotspotPanoramaOverlayTextImage_1648C1BA_248F_11A5_41B5_CE8C7F8962FD.text = DIVISIÓN DE TELEMÁTICA
+HotspotPanoramaOverlayTextImage_3FD011B6_2868_559C_41C1_B3ED427E5F61.text = DIVISÓN DE GESTIÓN DE LA PRODUCCIÓN
+HotspotPanoramaOverlayTextImage_0D7BD36B_2481_F2A4_4133_5D1402D50194.text = EDUCACIÓN CONTINUA
+HotspotPanoramaOverlayTextImage_04641827_2483_FEAB_41C2_07C05F7A70BE.text = FOMENTO CULTURAL
+HotspotPanoramaOverlayTextImage_318A8AD2_29A8_7794_41B7_703CC1403BCE.text = Ingeniero en Mecatrónica
+HotspotPanoramaOverlayTextImage_3F0CEB4C_2858_768C_41A8_49EFB0CB3D5B.text = IngenierÍa en Tecnologías de la Producción
+HotspotPanoramaOverlayTextImage_3050DCFE_2868_B38C_41B3_A0AE4E2E4A81.text = Ingeniería en Desarrollo y Gestión de Software
+HotspotPanoramaOverlayTextImage_3A47150A_2878_D274_41BF_1E05F609F010.text = Ingeniería en Entornos Virtuales y Negocios Digitales
+HotspotPanoramaOverlayTextImage_3ADF32B9_2858_F794_41BC_FB130FB98828.text = Ingeniería en Redes Inteligentes y Ciberseguridad
+HotspotPanoramaOverlayTextImage_3D3E115C_28D8_D28C_41A5_E6C71FF22BFE.text = Ingeniería en Tecnología Ambiental
+HotspotPanoramaOverlayTextImage_31DD0B32_2878_5694_41B3_0AD3CD23E73F.text = Licenciatura en Gestión del Capital Humano
+HotspotPanoramaOverlayTextImage_30C280BE_2858_F38C_41B0_C7F00110BF17.text = Licenciatura en Innovación de Negocios y Mercadotecnia.
+HotspotPanoramaOverlayTextImage_3072667F_2869_DE8C_41B5_456E815C2C2C.text = Maestría en Gestión e Innovación en las Organizaciones
+HotspotPanoramaOverlayTextImage_31C606FC_285F_BF8C_41B1_9EC95F69EF85.text = Maestría en Innovación y Negocios
+HotspotPanoramaOverlayTextImage_3C46F75C_28E8_FE8C_41BC_2AB9C79655F3.text = Maestría en Sistemas de Gestión Ambiental
+FlatHotspotPanoramaOverlayTextImage_38AEAD48_243F_6044_41C0_12F60C084E33.text = RECORRIDO \
+360°
+FlatHotspotPanoramaOverlayTextImage_38F181F3_243F_A045_41BD_2405EF5A00C1.text = RECORRIDO  \
+PRIMERA \
+PERSONA
+HotspotPanoramaOverlayTextImage_39EC6D8B_2869_B274_41B6_0090902619EF.text = SECRETARÍA ACADÉMICA
+HotspotPanoramaOverlayTextImage_3F0784B8_2868_F395_41A8_5327F295D8F5.text = TSU en Administración Área Capital Humano
+HotspotPanoramaOverlayTextImage_3F79DC48_28A8_B2F4_41C2_A51B9F3AB707.text = TSU en Desarrollo de Negocios Área Mercadotecnia
+HotspotPanoramaOverlayTextImage_3C90C52B_28F8_52B4_41BA_32DD2569ADBD.text = TSU en Mantenimiento Aeronáutico Área Aviónica
+HotspotPanoramaOverlayTextImage_31C5A667_2858_DEBC_41BD_57FD059BF054.text = TSU en Mecatrónica Área Sistemas de Manufactura Flexible
+HotspotPanoramaOverlayTextImage_31CA285E_2858_728C_41BE_E430F2E2AB7A.text = TSU en Procesos Industriales Área Manufactura
+HotspotPanoramaOverlayTextImage_3D9108BF_28D9_B38C_41B0_ECF37354B9D4.text = TSU en Química Área Ambiental
+HotspotPanoramaOverlayTextImage_3F412A4F_286F_D68C_41C0_D42384038972.text = TSU en TI Desarrollo de Software Multiplataforma
+HotspotPanoramaOverlayTextImage_71EDA7B3_2482_F1A4_41C1_A2BB98E19D0B.text = TSU en TI Entornos Virtuales y Negocios Digitales
+HotspotPanoramaOverlayTextImage_3B155A94_2858_579C_41A7_A1EB2F7D05C3.text = TSU en TI Infraestructura de Redes Digitales
+
+### Tooltip
+sprite_3281FDCD_2463_E05D_41AA_4A02CEFAEFCD.toolTip = SALIR
+
+## Media
+
+### Audio
+audiores_745AA027_2483_EEAC_41BF_F421A4AB6AD7.mp3Url = media/audio_0A62E89C_2483_3F9C_419C_E5530B8FB0AA_es-MX.mp3
+audiores_38C9D393_2422_E0C5_41A5_F12C2AB4DB3B.mp3Url = media/audio_0DE182F1_1FDE_D28E_41B0_5A9AF82DC0A8_es-MX.mp3
+
+### Floorplan
+
+### Imágen
+imlevel_2E842D8E_3163_FBAD_41B6_16972F1A4674.url = media/map_30DC41E7_29D9_B5BB_41B4_672527342777_es-MX_0.png
+imlevel_2E844D90_3163_FBB5_418B_0BB6F909FD41.url = media/map_30DC41E7_29D9_B5BB_41B4_672527342777_es-MX_1.png
+imlevel_2E846D92_3163_FBB5_41B4_0BEB03D2D63D.url = media/map_30DC41E7_29D9_B5BB_41B4_672527342777_es-MX_2.png
+imlevel_2E86DBB8_3163_FFF4_41B0_DA42844E5E5A.url = media/map_30DC9098_29D9_D395_41A2_64C60DFA30CC_es-MX_0.png
+imlevel_2E86FBBA_3163_FFF4_41B3_058F4937F6FA.url = media/map_30DC9098_29D9_D395_41A2_64C60DFA30CC_es-MX_1.png
+imlevel_2E86EBBC_3163_FFEC_41C2_8E03677E1EC7.url = media/map_30DC9098_29D9_D395_41A2_64C60DFA30CC_es-MX_2.png
+imlevel_2E85CF30_3163_F8F5_41B2_0A2E4FFCB18C.url = media/map_30DCB766_29D9_DEBD_41B9_FBFD72B16082_es-MX_0.png
+imlevel_2E85FF32_3163_F8F4_41AE_9946420136FF.url = media/map_30DCB766_29D9_DEBD_41B9_FBFD72B16082_es-MX_1.png
+imlevel_2E820F34_3163_F8FC_41C6_9544D576897F.url = media/map_30DCB766_29D9_DEBD_41B9_FBFD72B16082_es-MX_2.png
+imlevel_2EBB2704_3163_C89D_41C2_AD6067005546.url = media/map_30DCB901_29D9_B274_41B7_B14BEB0F9E1F_es-MX_0.png
+imlevel_2EBB1705_3163_C89F_41A9_3524136AB677.url = media/map_30DCB901_29D9_B274_41B7_B14BEB0F9E1F_es-MX_1.png
+imlevel_2EBB7707_3163_C89B_41C2_43125F3B4387.url = media/map_30DCB901_29D9_B274_41B7_B14BEB0F9E1F_es-MX_2.png
+imlevel_2EB44BBA_3163_DFF4_41B4_8915E2B482BA.url = media/map_30DCBEA7_29D9_CFBC_41BA_79C9A18D3A11_es-MX_0.png
+imlevel_2EB45BBC_3163_DFEC_41B4_9C91AA65A052.url = media/map_30DCBEA7_29D9_CFBC_41BA_79C9A18D3A11_es-MX_1.png
+imlevel_2EB48BBC_3163_DFED_41AF_7770699F4399.url = media/map_30DCBEA7_29D9_CFBC_41BA_79C9A18D3A11_es-MX_2.png
+imlevel_2E814283_3163_C99B_41B6_AC9672AFC382.url = media/map_30DCF540_29D9_F2F4_41A2_5F15F5B3702B_es-MX_0.png
+imlevel_2E815284_3163_C99D_419C_83BEE1004756.url = media/map_30DCF540_29D9_F2F4_41A2_5F15F5B3702B_es-MX_1.png
+imlevel_2E81B285_3163_C99F_41AB_45590F9C282D.url = media/map_30DCF540_29D9_F2F4_41A2_5F15F5B3702B_es-MX_2.png
+imlevel_2EB888C4_3163_D99C_418E_1B64ADC90192.url = media/map_30DE43F6_29D8_559C_4188_9D1D16DFB534_es-MX_0.png
+imlevel_2EB898C5_3163_D99C_41C6_3A0F19013E6B.url = media/map_30DE43F6_29D8_559C_4188_9D1D16DFB534_es-MX_1.png
+imlevel_2EB8F8C6_3163_D99C_41C5_0C5051465953.url = media/map_30DE43F6_29D8_559C_4188_9D1D16DFB534_es-MX_2.png
+imlevel_2EB65A48_3163_D895_41C5_BAD1B557137B.url = media/map_30DE7D3C_29D8_728C_4198_48686E228B11_es-MX_0.png
+imlevel_2EB6AA49_3163_D897_41C1_3FE8D9708BA3.url = media/map_30DE7D3C_29D8_728C_4198_48686E228B11_es-MX_1.png
+imlevel_2EB68A4A_3163_D895_419C_8FF407C3ECCA.url = media/map_30DE7D3C_29D8_728C_4198_48686E228B11_es-MX_2.png
+imlevel_2EBF142F_3163_C8EB_41C6_2F52448879F1.url = media/map_30DE8AE1_29D8_57B4_41A6_59212A53C5F7_es-MX_0.png
+imlevel_2EBF6430_3163_C8F5_41C7_B4FAB2B88EC4.url = media/map_30DE8AE1_29D8_57B4_41A6_59212A53C5F7_es-MX_1.png
+imlevel_2EBF4431_3163_C8F7_419A_E40722CFAEB2.url = media/map_30DE8AE1_29D8_57B4_41A6_59212A53C5F7_es-MX_2.png
+imlevel_2EBD3594_3163_CBBD_41C5_6D003B16D2BB.url = media/map_33A2B872_29D8_D294_41C3_FC16B1FFAB36_es-MX_0.png
+imlevel_2EBD0595_3163_CBBF_41B8_72A81A9DCAFC.url = media/map_33A2B872_29D8_D294_41C3_FC16B1FFAB36_es-MX_1.png
+imlevel_2EBD6595_3163_CBBF_41C4_C633D4F7F1CF.url = media/map_33A2B872_29D8_D294_41C3_FC16B1FFAB36_es-MX_2.png
+imlevel_2E8340D5_3163_C9BC_41BD_B4DFBDA395AF.url = media/map_33ECB63A_29D8_7E94_41B5_209BE7877194_es-MX_0.png
+imlevel_2E83A0D6_3163_C9BC_419D_4439800717FA.url = media/map_33ECB63A_29D8_7E94_41B5_209BE7877194_es-MX_1.png
+imlevel_2E8390D6_3163_C9BD_41C3_B898EC8B5F01.url = media/map_33ECB63A_29D8_7E94_41B5_209BE7877194_es-MX_2.png
+imlevel_0F31360E_2A18_7D5C_41B0_2C927E3F2C58.url = media/panorama_1469DC6E_1FA9_D592_4197_6F4443DF1592_HS_mw0mp3rd_es.png
+imlevel_0F2B6530_2A18_7F43_41B0_43D143889A2B.url = media/panorama_1469DC6E_1FA9_D592_4197_6F4443DF1592_HS_wnhjo7ke_es.png
+imlevel_072BD2BC_2A38_1ABC_41A1_B5C1739E07E3.url = media/panorama_1469DC6E_1FA9_D592_4197_6F4443DF1592_HS_ylo3rxoj_es-MX.png
+imlevel_0F3C56F3_2A18_7AC4_41B3_69EB7E55264F.url = media/panorama_146A5704_1FAA_D397_41B4_B41E4623C999_HS_8d6s1pzt_es.png
+imlevel_0F1C5071_2A18_75C4_41A5_9B2F56F81DA4.url = media/panorama_146ED734_1FAE_33F7_41B9_92B52D7B730D_HS_1zcct5av_es.png
+imlevel_0F190132_2A18_7744_4192_287C6AACD55F.url = media/panorama_146ED734_1FAE_33F7_41B9_92B52D7B730D_HS_6xdxk2od_es.png
+imlevel_0723C03F_2A38_15BC_41AD_732BAFFA2419.url = media/panorama_146ED734_1FAE_33F7_41B9_92B52D7B730D_HS_bxf22r35_es-MX.png
+imlevel_0F2511FB_2A18_76C5_41A6_4450AE17CD12.url = media/panorama_146ED734_1FAE_33F7_41B9_92B52D7B730D_HS_iq43p9mm_es.png
+imlevel_0F23C316_2A18_7B4C_4192_5F738FD1DE8C.url = media/panorama_146ED734_1FAE_33F7_41B9_92B52D7B730D_HS_warsrwce_es.png
+imlevel_0F7BCC1B_2A18_2D44_41B4_BA2351DBE639.url = media/panorama_14765C33_1FB6_35F2_41B5_3BE304604BF2_HS_6bkwh8iy_es.png
+imlevel_04DF7849_2A38_15C5_41C3_C2837B513C31.url = media/panorama_14765C33_1FB6_35F2_41B5_3BE304604BF2_HS_iap7sgtp_es-MX.png
+imlevel_0F78BB33_2A18_2B44_41A2_16BB96740149.url = media/panorama_14765C33_1FB6_35F2_41B5_3BE304604BF2_HS_lmehdyd6_es.png
+imlevel_0C87CCE9_2A18_2EC5_41C4_D671C9C1798C.url = media/panorama_14765C33_1FB6_35F2_41B5_3BE304604BF2_HS_onwdh9dx_es.png
+imlevel_0F4099BA_2A18_7747_41A1_7609F7D9F015.url = media/panorama_1476DA91_1FB6_328E_41A4_6A6EF75170F7_HS_1pg450if_es.png
+imlevel_04D12491_2A38_1D44_4199_17C1587A94A5.url = media/panorama_1476DA91_1FB6_328E_41A4_6A6EF75170F7_HS_cuacukz4_es-MX.png
+imlevel_0F4E2ABD_2A18_6ABC_41AC_A68C350891FC.url = media/panorama_1476DA91_1FB6_328E_41A4_6A6EF75170F7_HS_inacj46j_es.png
+imlevel_0F49EB90_2A18_6B44_41AB_B41946602AE7.url = media/panorama_1476DA91_1FB6_328E_41A4_6A6EF75170F7_HS_u8rrabtu_es.png
+imlevel_0F6CD1AC_2A18_1743_41BF_AAC46924DC25.url = media/panorama_1476DBE9_1FB6_D291_41B0_6171B6A7A962_HS_q2rxn173_es.png
+imlevel_0F61A0AC_2A18_155C_41B8_755B70CDC2BF.url = media/panorama_1476DBEA_1FB6_F292_419E_0A6E5D1C34BE_HS_l0i3un0o_es.png
+imlevel_04D91687_2A38_1D4D_419A_8254FBC2439A.url = media/panorama_1476EAF1_1FB6_D28E_41AF_EB9D350DEF00_HS_3jwzxc8b_es-MX.png
+imlevel_0F58CEF7_2A18_6ACC_4193_C5AE0A2F16DC.url = media/panorama_1476EAF1_1FB6_D28E_41AF_EB9D350DEF00_HS_mhdgs7az_es.png
+imlevel_0F657FF0_2A18_6AC3_41BC_DE87F55D0B03.url = media/panorama_1476EAF1_1FB6_D28E_41AF_EB9D350DEF00_HS_otpeiqg0_es.png
+imlevel_0F5C4DF8_2A18_6EC4_41C1_9FBE3BD06CFA.url = media/panorama_1476EAF1_1FB6_D28E_41AF_EB9D350DEF00_HS_uuvas6b7_es.png
+imlevel_0C812D83_2A18_2F45_419F_1D0CE97352AF.url = media/panorama_1477ACCF_1FB6_7692_41B9_D87CC9E99E11_HS_p4dmehfw_es.png
+imlevel_0C934122_2A18_3744_41C2_BFEF348D6D96.url = media/panorama_14789E37_1FBB_F5F1_41B6_9BA2AE25ACC3_HS_fwq8hm3s_es.png
+imlevel_0C975051_2A18_35C4_419B_FBA8769AF3AF.url = media/panorama_14789E37_1FBB_F5F1_41B6_9BA2AE25ACC3_HS_r8hp6cuo_es.png
+imlevel_0C8F3EBA_2A18_2D44_41BC_E2D63E702E17.url = media/panorama_1478FDAE_1FBB_D692_41A6_58185F164CA3_HS_j952bjlv_es.png
+imlevel_0C8B1F8C_2A18_2B5C_41AD_8E935D4889BA.url = media/panorama_1478FDAE_1FBB_D692_41A6_58185F164CA3_HS_rlwctyon_es.png
+imlevel_0CA093D6_2A18_3ACF_41A3_6E4FC410EDB1.url = media/panorama_147935A7_1FBA_3692_41A5_6EEA8C0B655B_HS_wo806i5x_es.png
+imlevel_0C988212_2A18_3544_41BE_2B944EC64D4C.url = media/panorama_14798FAE_1FBA_3292_4196_E68D932EF06C_HS_3hfppsq9_es.png
+imlevel_381FFF53_2F60_D8BB_41A7_47AD2F9D17B8.url = media/panorama_147B60A1_1FBA_2E8E_41A1_705914D02A0A_HS_041c3u7u_es-MX.png
+imlevel_3801A14F_2F60_C8AB_41C6_DAD41A6E8139.url = media/panorama_147B60A1_1FBA_2E8E_41A1_705914D02A0A_HS_5fspqpf6_es-MX.png
+imlevel_3802B035_2F60_C8FC_41B5_8B29A3AC0054.url = media/panorama_147B60A1_1FBA_2E8E_41A1_705914D02A0A_HS_i5t9wsld_es-MX.png
+imlevel_380310BF_2F60_C9EB_4194_FBC861E24B17.url = media/panorama_147B60A1_1FBA_2E8E_41A1_705914D02A0A_HS_j0q7hmwi_es-MX.png
+imlevel_39A29C99_2F60_D9B7_41C4_4BE0FB9E87C2.url = media/panorama_147B60A1_1FBA_2E8E_41A1_705914D02A0A_HS_yp9szrg6_es-MX.png
+imlevel_7148262A_2486_F2A4_419A_39642CE00B13.url = media/popup_01EEE93B_2481_1EA4_41C2_8036FAF78151_es_0_0.png
+imlevel_7149362C_2486_F2BC_41B7_F50FA399AA00.url = media/popup_01EEE93B_2481_1EA4_41C2_8036FAF78151_es_0_1.png
+imlevel_719C0A11_2487_1264_4173_EF88123DB5B1.url = media/popup_0459F540_278F_16E4_4194_9DCEBA56350C_es_0_0.jpg
+imlevel_71954A14_2487_126C_41C2_43B25C10DFE8.url = media/popup_0459F540_278F_16E4_4194_9DCEBA56350C_es_0_1.jpg
+imlevel_71952A15_2487_126C_41C0_865F707AE319.url = media/popup_0459F540_278F_16E4_4194_9DCEBA56350C_es_0_2.jpg
+imlevel_7196EA15_2487_126C_41C2_9D7059DC7D56.url = media/popup_0459F540_278F_16E4_4194_9DCEBA56350C_es_1_0.jpg
+imlevel_7196DA16_2487_126C_41AB_4EF2CBB8025D.url = media/popup_0459F540_278F_16E4_4194_9DCEBA56350C_es_1_1.jpg
+imlevel_7196BA16_2487_126C_41B6_5E51BD31DBAA.url = media/popup_0459F540_278F_16E4_4194_9DCEBA56350C_es_1_2.jpg
+imlevel_7189696A_2487_1EA4_41B5_D315C584CF79.url = media/popup_04BEAE75_278F_12AC_417C_FCC4899AA5A2_es_0_0.jpg
+imlevel_7189596B_2487_1EA4_41BA_1CAD7E238C87.url = media/popup_04BEAE75_278F_12AC_417C_FCC4899AA5A2_es_0_1.jpg
+imlevel_7189396C_2487_1EBC_41B7_281DDCEE132D.url = media/popup_04BEAE75_278F_12AC_417C_FCC4899AA5A2_es_0_2.jpg
+imlevel_7189296D_2487_1EBC_4190_A09180A9E664.url = media/popup_04BEAE75_278F_12AC_417C_FCC4899AA5A2_es_1_0.jpg
+imlevel_7189096E_2487_1EBC_41C2_1731F7D0C23B.url = media/popup_04BEAE75_278F_12AC_417C_FCC4899AA5A2_es_1_1.jpg
+imlevel_718AE96E_2487_1EBC_41C3_BD3B916703D4.url = media/popup_04BEAE75_278F_12AC_417C_FCC4899AA5A2_es_1_2.jpg
+imlevel_0083E685_2A18_1D4C_41BE_66138AFC806E.url = media/popup_068C5B3F_2A28_2BBD_41B9_F1EEF7D7EC25_es-MX_0_0.jpg
+imlevel_0083F686_2A18_1D4C_41C0_F34F5275DD91.url = media/popup_068C5B3F_2A28_2BBD_41B9_F1EEF7D7EC25_es-MX_0_1.jpg
+imlevel_00839687_2A18_1D4C_41A2_93A1090C9DD2.url = media/popup_068C5B3F_2A28_2BBD_41B9_F1EEF7D7EC25_es-MX_0_2.jpg
+imlevel_0083A688_2A18_1D44_416E_81D573E33B5E.url = media/popup_068C5B3F_2A28_2BBD_41B9_F1EEF7D7EC25_es-MX_1_0.jpg
+imlevel_0083B689_2A18_1D44_41B9_C31570DFA517.url = media/popup_068C5B3F_2A28_2BBD_41B9_F1EEF7D7EC25_es-MX_1_1.jpg
+imlevel_0084468A_2A18_1D44_41BC_AC3523332C60.url = media/popup_068C5B3F_2A28_2BBD_41B9_F1EEF7D7EC25_es-MX_1_2.jpg
+imlevel_713640FA_2486_EFA4_41B0_1D8D39F2FFE0.url = media/popup_0A860146_2482_EEEC_4193_3E77BF115DD1_es_0_0.jpg
+imlevel_713690FB_2486_EFA4_4188_2C00AB8E3306.url = media/popup_0A860146_2482_EEEC_4193_3E77BF115DD1_es_0_1.jpg
+imlevel_713680FC_2486_EF9A_41B6_EF9833A6A1D5.url = media/popup_0A860146_2482_EEEC_4193_3E77BF115DD1_es_0_2.jpg
+imlevel_715A5C33_2486_F6A4_41B3_87766BE4666E.url = media/popup_0BA7B539_2483_16A4_41B1_AF1D94473F43_es_0_0.png
+imlevel_71584C35_2486_F6AC_41BA_3E10CCB90314.url = media/popup_0BA7B539_2483_16A4_41B1_AF1D94473F43_es_0_1.png
+imlevel_717031BC_2486_F19D_418B_677F55F5B6BE.url = media/popup_0EF40935_2781_1EAC_41B6_999021EDA35B_es_0_0.png
+imlevel_717621BE_2486_F19D_41B9_C52066EF8A64.url = media/popup_0EF40935_2781_1EAC_41B6_999021EDA35B_es_0_1.png
+imlevel_3CB3F718_2A18_3B44_41A8_3837363E18B9.url = media/popup_317D049C_29A8_538C_41C4_6D2ABCDE9F2F_es_0_0.png
+imlevel_3CB31719_2A18_3B44_41B5_9B5B19F12250.url = media/popup_317D049C_29A8_538C_41C4_6D2ABCDE9F2F_es_0_1.png
+imlevel_0F09DDCC_2A18_6EC3_41C1_DFFF0530C19C.url = media/popup_35D01D7F_2462_A03E_4195_D5294DF5B0EC_es_0_0.png
+imlevel_0F092DCC_2A18_6EC3_4196_CFC84B583C27.url = media/popup_35D01D7F_2462_A03E_4195_D5294DF5B0EC_es_0_1.png
+imlevel_0F093DCD_2A18_6EDD_4186_1E63CECAB672.url = media/popup_35D01D7F_2462_A03E_4195_D5294DF5B0EC_es_0_2.png
+imlevel_0F0B8E03_2A18_6D45_41BD_A6C55E0B4891.url = media/popup_36732F1F_241E_A1FD_419E_0CC0BDCC2AC0_es_0_0.png
+imlevel_0F0B9E04_2A18_6D43_4177_69CE95774C26.url = media/popup_36732F1F_241E_A1FD_419E_0CC0BDCC2AC0_es_0_1.png
+imlevel_0F0BFE04_2A18_6D43_41B8_A8F9062D7805.url = media/popup_36732F1F_241E_A1FD_419E_0CC0BDCC2AC0_es_0_2.png
+imlevel_3CB82A66_2A18_35CF_41A6_8B00E086375D.url = media/popup_393A02FF_2868_D78C_417F_3138023451E0_es_0_0.jpg
+imlevel_3CB85A66_2A18_35CF_41C0_9C2C986ECDCC.url = media/popup_393A02FF_2868_D78C_417F_3138023451E0_es_0_1.jpg
+imlevel_3CB84A67_2A18_35CD_41C3_5E6F12E4914A.url = media/popup_393A02FF_2868_D78C_417F_3138023451E0_es_0_2.jpg
+
+### Popup Imágen
+
+### Subtítulos de Audio
+
+### Subtítulos de Video
+
+### Título
+panorama_12607E57_1FAE_35B2_41BB_67773B439030.label = Alberca y Pastos
+panorama_146ACAA7_1FAA_7292_41AC_93D7983EC751.label = Aula de Innovación
+panorama_146B306D_1FAE_ED96_41AC_77A36B1E7D7B.label = Avión Estacionamiento
+panorama_146A9AC2_1FAA_5292_41A2_DF2E2C8AEE84.label = Avión Árbol del conocimiento
+album_3D8247A4_28F8_BDBC_41C3_A256E650C8F4_1.label = Aviónica (Helicoptero 2)
+album_3D8247A4_28F8_BDBC_41C3_A256E650C8F4_0.label = Aviónica (Helicóptero)
+panorama_146A6AC7_1FAA_3292_41B3_0CEE7ACF8FA9.label = Biblioteca
+map_30DE43F6_29D8_559C_4188_9D1D16DFB534.label = Biblioteca
+album_3A96675C_28A8_5E8C_41A5_B96E928C3BFF_3.label = Box
+album_3A96675C_28A8_5E8C_41A5_B96E928C3BFF_4.label = Box (2)
+album_3A96675C_28A8_5E8C_41A5_B96E928C3BFF_0.label = Box (3)
+album_3A96675C_28A8_5E8C_41A5_B96E928C3BFF_1.label = Box (4)
+album_3A96675C_28A8_5E8C_41A5_B96E928C3BFF_2.label = Box (5)
+panorama_146A5FE0_1FAB_D28E_41B0_CA816A3FF544.label = Cafetería
+album_057E2F50_277F_72E4_4159_1AB3C48C22F0_2.label = Cancha
+album_057E2F50_277F_72E4_4159_1AB3C48C22F0_3.label = Cancha (2)
+album_051937BD_2781_119C_41BF_2C36120BF947_0.label = Cancha (3)
+album_051937BD_2781_119C_41BF_2C36120BF947_1.label = Cancha (4)
+album_051937BD_2781_119C_41BF_2C36120BF947_2.label = Cancha (5)
+album_051937BD_2781_119C_41BF_2C36120BF947_3.label = Cancha (6)
+album_057E2F50_277F_72E4_4159_1AB3C48C22F0_4.label = Cancha (7)
+album_057E2F50_277F_72E4_4159_1AB3C48C22F0_1.label = Cancha (8)
+album_057E2F50_277F_72E4_4159_1AB3C48C22F0_0.label = Cancha (9)
+panorama_146EF3BF_1FAE_D2F2_4195_804E7BECF11A.label = Cancha Futbol
+map_30DE7D3C_29D8_728C_4198_48686E228B11.label = Cancha y Areas verdes
+video_3EEA7F72_2482_F2A4_41B3_168A6D3C4E20.label = Coyotzín
+video_36B64580_2466_A0C3_41AF_CADA5B7B7948.label = Creditos
+panorama_146A0F6E_1FAB_F392_4192_16C31E6607BA.label = Cruz Caf. Entrada
+panorama_146BE037_1FAA_2DF2_419D_B594448F9C9B.label = Cruz Caf. Pasillo
+panorama_146BC095_1FAA_6EB6_41B2_4BF160C3A410.label = Cruz Caf. Sendero
+panorama_146BB4C0_1FAA_F68E_41A0_AB297838BD3A.label = Cruz Entrada
+panorama_146A43FF_1FAA_3272_41B8_93B081D67A4F.label = Cruz Entrada Caf.
+panorama_146EB5A3_1FAE_5692_41BD_E1D67A455A7F.label = Cruz Estacionamiento Lab
+panorama_146EB6D9_1FAE_72BE_41BC_788B20BD1F1D.label = Cruz Estacionamiento Tec. Ambiental
+panorama_146E8763_1FAE_5392_4178_3A1AE99557D6.label = Cruz Fomento Rectoría
+panorama_146A4790_1FAA_528E_41BD_580F244207A7.label = Cruz Mural Estatua del Sol
+panorama_146AB8F8_1FA9_FE7E_41BD_3D9CC5E7C751.label = Cruz Plaza Sot Juana canchas
+panorama_146A084B_1FAA_3D92_4190_394901B88945.label = Cruz Plaza Árbol, Inf.
+panorama_146A18A2_1FA9_DE92_41A0_3B993B0B082F.label = Cruz Plaza árbol, lab inf.
+panorama_146A1882_1FA9_DE92_41B6_6B203DC57D8E.label = Cruz Rectoría Fomento
+panorama_1476691F_1FB6_5FB2_41B5_4F49F5F721DC.label = Cruz Sec. Aca. Banco. Tel
+panorama_147668D9_1FB6_7EBE_41BC_6E408FBC111F.label = Cruz Sen. Edu. Continua
+panorama_14769A17_1FB6_5DB2_41AB_3B77FFF664C2.label = Cruz Tec. Ambiental
+panorama_146A4BEF_1FAB_D292_41B8_A401E413FEB9.label = Cruz banco, edu continua, div admin
+panorama_146A71A5_1FAA_6E96_412E_FE4A4F65ACDC.label = Cruz chima. canchas
+panorama_146A7435_1FAA_D5F6_41BC_D97A884E5A56.label = Cruz entrada, caf, lab inf.
+panorama_146A055E_1FAA_37B2_41B5_5293F65D0841.label = Cruz lab inf. div. inf.
+panorama_146A05AE_1FAA_5692_4171_44071F25AB07.label = Cruz lab. inf, entrada
+panorama_1476687D_1FB6_3E76_41B1_61AFD19A9180.label = Cruz rectoría, mural, lab redes
+panorama_1476DBE9_1FB6_D291_41B0_6171B6A7A962.label = Div. Aviónica
+panorama_1469DC6E_1FA9_D592_4197_6F4443DF1592.label = Div. Informática
+map_30DC41E7_29D9_B5BB_41B4_672527342777.label = Div. Informática y Procesos
+panorama_14765C33_1FB6_35F2_41B5_3BE304604BF2.label = Div. Tecnología Ambiental
+panorama_147935A7_1FBA_3692_41A5_6EEA8C0B655B.label = Div. Telemática
+map_30DCB901_29D9_B274_41B7_B14BEB0F9E1F.label = Div. Telemática y Edificio Chimalhuacán
+panorama_1476DA91_1FB6_328E_41A4_6A6EF75170F7.label = Div. de Administración de Empresas
+panorama_1476EAF1_1FB6_D28E_41AF_EB9D350DEF00.label = Div. de Comercialización
+panorama_146ED734_1FAE_33F7_41B9_92B52D7B730D.label = Div. de Gestión de la Producción
+map_30DE8AE1_29D8_57B4_41A6_59212A53C5F7.label = Div. de Tecnología Ambiental y Aviónica
+panorama_1476DBEA_1FB6_F292_419E_0A6E5D1C34BE.label = División Aviónica Dentro
+panorama_1477DCE6_1FB6_5692_419C_C28484E38FA0.label = Edificio Chimalhuacán
+panorama_1477ACCF_1FB6_7692_41B9_D87CC9E99E11.label = Educación Continua
+panorama_1476EEA0_1FB6_728E_4137_7C4D7BE72E00.label = Entrada
+map_30DC9098_29D9_D395_41A2_64C60DFA30CC.label = Entrada
+panorama_146E8009_1FA9_ED9E_41AA_174F27162C38.label = Entrada Cancha
+panorama_14774D54_1FB7_F7B6_41B4_9583FA0107D0.label = Entrada Lab Tel
+panorama_14772D5E_1FB7_D7B2_41BD_DB49CCC7A716.label = Entrada Lab Tel CUBO
+panorama_146DC1CB_1FAA_2E91_41B1_A4BAEE2501B3.label = Entrada Rectoría
+panorama_14769D12_1FB6_37B2_41AE_3336C0EFD8BB.label = Entrada Secretaría académica
+panorama_14777DA9_1FB7_D691_41BD_273F089FEA27.label = Entrada Secretaría académica 2
+panorama_1476AE06_1FB6_5592_419F_77EDD0411725.label = Entrada Telemática
+panorama_1476EF19_1FB6_53BE_41A1_0C36F423856E.label = Escalera planta baja
+panorama_1476AEB9_1FB6_32F1_41B7_FA47B1317B5C.label = Escaleras primer piso
+panorama_146D9166_1FAA_2F92_41A3_D7B9BF2FBFB9.label = Estacionamiento 2
+panorama_146D926A_1FAA_6D93_41A8_38673E7A87F8.label = Estacionamiento Caseta 3
+panorama_146A45A2_1FAA_3693_41B7_B61235A85523.label = Estacionamiento Tel
+map_33A2B872_29D8_D294_41C3_FC16B1FFAB36.label = Estacionamiento Telemática
+panorama_146D8330_1FAA_538F_41B4_694752D52A7C.label = Estacionamiento redes
+photo_0A1D9FEA_2481_11A4_41B3_95A97801A2B1.label = Estatua Neza
+panorama_146A2460_1FAA_D58E_419B_D93576E9B2ED.label = Estatua del Sol
+album_07932504_2481_366C_41C0_8FCC323A1C37_3.label = Fomento
+album_07932504_2481_366C_41C0_8FCC323A1C37_2.label = Fomento (2)
+album_07932504_2481_366C_41C0_8FCC323A1C37_1.label = Fomento (3)
+album_07932504_2481_366C_41C0_8FCC323A1C37_0.label = Fomento (4)
+album_07932504_2481_366C_41C0_8FCC323A1C37_4.label = Fomento (5)
+panorama_146A5704_1FAA_D397_41B4_B41E4623C999.label = Fomento Cultutal
+panorama_1476AF95_1FB6_D2B6_41B5_32ED0F2A0994.label = Gimnasio
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_0.label = Gym
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_9.label = Gym (10)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_10.label = Gym (11)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_11.label = Gym (12)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_12.label = Gym (13)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_13.label = Gym (14)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_14.label = Gym (15)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_15.label = Gym (16)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_16.label = Gym (17)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_1.label = Gym (2)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_2.label = Gym (3)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_3.label = Gym (4)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_4.label = Gym (5)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_5.label = Gym (6)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_6.label = Gym (7)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_7.label = Gym (8)
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408_8.label = Gym (9)
+panorama_146A66D7_1FAA_F2B1_41BC_081003AB8AAA.label = Incubadora
+map_33ECB63A_29D8_7E94_41B5_209BE7877194.label = Incubadora
+panorama_14790F88_1FB6_F29E_41BF_3382FEB0B8F7.label = Lab Mul. Tel
+panorama_146AD707_1FAA_7392_41A6_E41AA1016184.label = Lab. Tecnología Ambiental
+panorama_14794F8E_1FB6_D292_41AC_B9C0DC51D158.label = Lab. de Gestión de la Producción
+panorama_14789564_1FB6_5796_41BD_51CFB8D27911.label = Lab. de Informática
+panorama_147930FF_1FB6_2E72_4194_500B0BC4B999.label = Lab. de Redes
+panorama_1479227C_1FB6_7277_41BC_3F41C77DF52B.label = Lab. de Telemática
+panorama_14791855_1FB6_3DB6_41B1_7E5B93A23E71.label = Laboratorio Tel CUBO
+album_0039AD14_2783_F66C_41B7_853A68EE176E_0.label = Lobby
+panorama_146A677B_1FAA_D271_41B6_197DBE99C60E.label = Lobby
+album_0039AD14_2783_F66C_41B7_853A68EE176E_9.label = Lobby (10)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_10.label = Lobby (11)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_1.label = Lobby (2)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_2.label = Lobby (3)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_3.label = Lobby (4)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_4.label = Lobby (5)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_5.label = Lobby (6)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_6.label = Lobby (7)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_7.label = Lobby (8)
+album_0039AD14_2783_F66C_41B7_853A68EE176E_8.label = Lobby (9)
+panorama_147B60A1_1FBA_2E8E_41A1_705914D02A0A.label = Menú
+panorama_14785AF5_1FB9_D276_41B8_99D4BF75F9ED.label = Mural
+panorama_146A975F_1FAA_33B2_41B7_FD212E7A1832.label = Nombre UTN
+panorama_14788E55_1FB9_F5B6_41B6_54B8674EB6AC.label = Palapas traseras
+panorama_147BDEDC_1FBA_52B6_41BC_A42879C83BDA.label = Pasillo Edu. Continua
+panorama_146A193A_1FAA_5FF2_4174_13A2F8D0A12E.label = Pasillo Estacionamiento Aviónica
+panorama_147B6FE9_1FBA_7291_418F_6DFFB37A50F8.label = Pasillo Lab. Tel
+panorama_147BA1A1_1FBA_2E8E_41B6_36F41DBDA67E.label = Pasillo Laboratorios
+panorama_147BD367_1FBA_D392_41B2_45BA3E084667.label = Pasillo Tel, Canchas
+panorama_14753BE9_1FBA_329E_41B6_F948DEDCB433.label = Pasillo banco
+panorama_147BB65D_1FBA_D5B6_41BB_1BDC310F1F80.label = Plaza "Bicentenario"
+panorama_147B6897_1FBA_3EB2_41B8_2C8394DFDAD0.label = Plaza "Rigoberta Menchú Tum"
+panorama_147B495C_1FBA_5FB6_41BA_A30F76DD0E02.label = Plaza "Sor Juana Inés de la Cruz"
+panorama_147BD421_1FBA_F58E_41B7_00A4F1D38DE3.label = Plaza "Árbol del Conocimiento"
+map_30DCB766_29D9_DEBD_41B9_FBFD72B16082.label = Plaza Árbol de Conocimiento
+panorama_1478CBAF_1FBA_7292_4175_505E64DD8417.label = Rectoría
+panorama_1478FBE9_1FBA_329E_41BC_36627EF0E665.label = Rectoría Plaza Sor Juana
+panorama_147B4C58_1FBA_55BE_41A7_948A1C276D25.label = Rectoría pasillo
+map_30DCBEA7_29D9_CFBC_41BA_79C9A18D3A11.label = Rectoría y Plaza Sor Juana Inés De la Cruz
+panorama_146ED4AB_1FAE_3692_4183_FD99DBC5C17D.label = Salída
+panorama_14798FAE_1FBA_3292_4196_E68D932EF06C.label = Secretaría Académica
+map_30DCF540_29D9_F2F4_41A2_5F15F5B3702B.label = Secretaría Académica, Div. Administración y Comercialización
+panorama_1478DF24_1FBB_D396_4192_4CBABB532615.label = Secretaría académica int
+album_3A22A575_2869_B29C_41C1_FB92141DB230_3.label = Servicio Social
+album_3A22A575_2869_B29C_41C1_FB92141DB230_2.label = Servicio Social (2)
+album_3A22A575_2869_B29C_41C1_FB92141DB230_1.label = Servicio Social (3)
+album_3A22A575_2869_B29C_41C1_FB92141DB230_0.label = Servicio Social (4)
+panorama_147951E8_1FBA_6E9E_4192_9FF4F82A80EA.label = Tel pasillo 1er piso
+panorama_147993DF_1FBA_52B2_41B3_87346DB9AC65.label = Tel pasillo planta baja
+model_3690EEAF_2463_A0DD_418B_E017672E377E.label = UTN RECORRIDO 2
+panorama_1478FDAE_1FBB_D692_41A6_58185F164CA3.label = salon 1er piso
+panorama_14789E37_1FBB_F5F1_41B6_9BA2AE25ACC3.label = salon planta baja
+video_3A013FE9_2483_11A4_417D_D198C8E060F3.label = uno institucional
+photo_03983BE6_2786_F1AC_4174_21F55A4D40E2.label = utnlogo
+album_3D8247A4_28F8_BDBC_41C3_A256E650C8F4.label = Álbum de Fotos Aviónica (Helicóptero)
+album_3A96675C_28A8_5E8C_41A5_B96E928C3BFF.label = Álbum de Fotos Box (3)
+album_057E2F50_277F_72E4_4159_1AB3C48C22F0.label = Álbum de Fotos Cancha 1
+album_051937BD_2781_119C_41BF_2C36120BF947.label = Álbum de Fotos Cancha 2
+album_07932504_2481_366C_41C0_8FCC323A1C37.label = Álbum de Fotos Fomento
+album_0F4B32D0_2783_13E5_41AC_BFDD7F9FF408.label = Álbum de Fotos Gym
+album_0039AD14_2783_F66C_41B7_853A68EE176E.label = Álbum de Fotos Lobby
+album_3A22A575_2869_B29C_41C1_FB92141DB230.label = Álbum de Fotos Servicio Social (4)
+photo_16957E7B_2483_129B_41B8_90ABD7A12CF5.label = Árbol del Conocimiento
+
+### Video
+videolevel_2E93A7AB_3163_F7EB_416E_8F5C3779F2DE.url = media/video_36B64580_2466_A0C3_41AF_CADA5B7B7948_es-MX.m3u8
+videolevel_2E93D7AD_3163_F7EF_41B6_3762B1521B79.url = media/video_36B64580_2466_A0C3_41AF_CADA5B7B7948_es-MX.mp4
+videolevel_2E93A7AB_3163_F7EB_416E_8F5C3779F2DE.posterURL = media/video_36B64580_2466_A0C3_41AF_CADA5B7B7948_poster_es-MX.jpg
+videolevel_2E93D7AD_3163_F7EF_41B6_3762B1521B79.posterURL = media/video_36B64580_2466_A0C3_41AF_CADA5B7B7948_poster_es-MX.jpg
+videolevel_2E893AB0_3163_F9F5_41B4_CCF54D5CBF47.url = media/video_3A013FE9_2483_11A4_417D_D198C8E060F3_es-MX.mp4
+videolevel_2E893AB0_3163_F9F5_41B4_CCF54D5CBF47.posterURL = media/video_3A013FE9_2483_11A4_417D_D198C8E060F3_poster_es-MX.jpg
+videolevel_2E8D8986_3163_FB9D_4181_DB6F63E50221.url = media/video_3EEA7F72_2482_F2A4_41B3_168A6D3C4E20_es-MX.mp4
+videolevel_2E8D8986_3163_FB9D_4181_DB6F63E50221.posterURL = media/video_3EEA7F72_2482_F2A4_41B3_168A6D3C4E20_poster_es-MX.jpg
+
+## Menú VR
+
+### Texto
+MenuItem_10D786F6_3160_497C_41A9_3858D883706D.label = Biblioteca
+MenuItem_10D7E6F6_3160_497C_41C6_DB77BEEA14E1.label = Cafetería
+MenuItem_10D7B6F7_3160_497C_4198_63682FD8D1E5.label = Div. Aviónica
+MenuItem_10D6A6F5_3160_497C_41B0_921F50FCA7F1.label = Div. Informática
+MenuItem_10D746F5_3160_497C_41BE_8FAEDAE88957.label = Div. Tecnología Ambiental
+MenuItem_10D406F8_3160_4974_419A_5D76BF04A559.label = Div. Telemática
+MenuItem_10D7D6F6_3160_497C_41B7_14A5C83EF6E3.label = Div. de Administración de Empresas
+MenuItem_10D466F8_3160_4974_41B3_2CBA6FDCC302.label = Div. de Comercialización
+MenuItem_10D4C6F8_3160_4974_41A4_BF32A48EBFE1.label = Div. de Gestión de la Producción
+MenuItem_10D456F7_3160_497C_41BE_F15C62630A9B.label = Edificio Chimalhuacán
+MenuItem_10D686F5_3160_497C_41C5_5B1A408687EA.label = Educación Continua
+MenuItem_10D696F5_3160_497C_41B7_82137040913A.label = Entrada
+MenuItem_10D776F5_3160_497C_41BC_59968753357C.label = Estatua del Sol
+MenuItem_10D736F6_3160_497C_41C4_841610A9EBB9.label = Fomento Cultutal
+MenuItem_10D6F6F4_3160_497C_41AD_29B8398D7B09.label = Gimnasio
+MenuItem_10D626F4_3160_497C_4198_EE706624C758.label = Incubadora
+MenuItem_10D6D6F4_3160_497C_41B4_C4CDDBA38B14.label = Lab. Tecnología Ambiental
+MenuItem_10D796F6_3160_497C_41B9_2C2FD3AB7FF4.label = Lab. de Gestión de la Producción
+MenuItem_10D716F6_3160_497C_41C1_2EFB78AC93CD.label = Lab. de Informática
+MenuItem_10D6B6F5_3160_497C_41A9_0357D8A8B1CD.label = Lab. de Redes
+MenuItem_10D4D6F8_3160_4974_41AA_3650494A7232.label = Lab. de Telemática
+Menu_3BDF4FDF_2F60_77AB_41A0_49582C833D4C.label = Media
+MenuItem_10D636F3_3160_4974_418B_083DAD2E7BDC.label = Menú
+MenuItem_10D6E6F5_3160_497C_419D_5CA1A84A1334.label = Mural
+MenuItem_10D416F8_3160_4974_41BD_C17038D4E1FF.label = Plaza "Bicentenario"
+MenuItem_10D766F6_3160_497C_4174_FC5638CC97BF.label = Plaza "Rigoberta Menchú Tum"
+MenuItem_10D7A6F7_3160_497C_41B0_69076DC148EA.label = Plaza "Sor Juana Inés de la Cruz"
+MenuItem_10D7F6F6_3160_497C_41B3_D2E2891A21DF.label = Plaza "Árbol del Conocimiento"
+MenuItem_10D476F8_3160_4974_417F_790C02F1ADA3.label = Rectoría
+MenuItem_10D426F8_3160_4974_4165_6348BE3B797E.label = Salída
+MenuItem_10D446F7_3160_497C_417E_40347BC81C34.label = Secretaría Académica
+
+## Skin
+
+### Botón
+Button_A2C6D1F1_B816_04B4_41B4_905C53630464.label = ABRIR
+Button_18126A3F_1663_8BEF_41A4_B0EDA1A5F4E3_mobile.label = ABRIR
+Button_A36FE03A_B816_03B5_41D7_DBFA1FF1EC71.label = BOOK NOW
+Button_A1306CA7_B816_035C_41E5_068F11677C1D.label = CONTACTO
+Button_A098741B_B86E_0374_41E2_44FDDAAAE79B.label = CONTACTO
+Button_C5226F1B_E141_74BA_4195_F1B4BCF277F0.label = DESCARGAR
+Button_A400117A_EBB1_2286_41E6_3E730EAEB2DD.label = DESCARGAR
+Button_A1309CA7_B816_035C_41C6_D86F71EEB962.label = INFORMACIÓN
+Button_A098441B_B86E_0374_41CF_F4B4B6C6EA80.label = INFORMCACIÓN
+Button_A098541B_B86E_0374_41D4_AFAD3975B3C2.label = UBICACIÓN
+Button_A1308CA7_B816_035C_41E4_B1352CA08028.label = UBICACIÓN
+Button_A400017A_EBB1_2286_41D2_F2247958F1A7.label = VER
+Button_C5238F19_E141_7486_41E7_2F63EC41F70F.label = VER
+
+### Etiqueta
+Label_FB9D051E_E973_62BE_41EC_037E66D4F0BC.text = CAFETERÍA
+Label_FF830562_E997_E286_41D5_4E887D73C1B6.text = CAFETERÍA
+Label_FF141CCB_E96F_2386_41E1_C36EE072A5B0.text = DIVISIÓN DE ADMINISTRACIÓN DE EMPRESAS
+Label_F8AD3311_E87B_2BB7_41DF_16457587DD6A.text = DIVISIÓN DE ADMINISTRACIÓN DE EMPRESAS
+Label_FF0DDFBD_E991_5D82_41E5_D7C2E108E5AC.text = DIVISIÓN DE AVIÓNICA
+Label_F9C75834_E87A_E5FD_41D1_8A560C3CF329.text = DIVISIÓN DE AVIÓNICA
+Label_F9DCDFC6_E87D_1A9D_41B8_D054E2C1B7A7.text = DIVISIÓN DE COMERCIALIZACIÓN
+Label_FC9DC455_E96F_2282_41DA_9BEA052D0721.text = DIVISIÓN DE COMERCIALIZACIÓN
+Label_FFDC4357_E96F_268E_41CB_77C2F8C89761.text = DIVISIÓN DE GESTIÓN DE LA PRODUCCIÓN
+Label_F8854072_E87F_2675_41CD_D2348A369FA7.text = DIVISIÓN DE GESTIÓN DE LA PRODUCCIÓN
+Label_FF40CAB8_E971_2782_41E0_988915DA3C5A.text = DIVISIÓN DE INFORMÁTICA Y COMPUTACIÓN
+Label_F919FB97_E87E_FABB_41E9_C3B55FD732BE.text = DIVISIÓN DE INFORMÁTICA Y COMPUTACIÓN
+Label_F95126AF_E87B_6AEB_41D2_660F8A35ED85.text = DIVISIÓN DE TECNOLOGÍA AMBIENTAL
+Label_FF59AA27_E991_668E_41E3_24E4DF6A6ABC.text = DIVISIÓN DE TECNOLOGÍA AMBIENTAL
+Label_FF6EE6C2_E971_2F86_41DE_0C28354D8FD2.text = DIVISIÓN DE TELEMÁTICA
+Label_F92BFAAD_E87D_7AEF_41EB_CD7498D9F326.text = DIVISIÓN DE TELEMÁTICA
+Label_FFFF3ACC_E993_6782_41CC_1555E806CBA4.text = EDIFICIO CHIMALHUACÁN
+Label_FF4309F8_E997_6582_41D0_9AFDA81C22A7.text = EDIFICIO CHIMALHUACÁN
+Label_04F9C157_2781_2EEC_41BC_63CA338DE9D0.text = FOMENTO CULTURAL Y DEPORTIVO
+Label_052AC60F_2781_127C_41A8_ED4BFCB3ED1B.text = FOMENTO CULTURALY DEPORTIVO
+Label_F6FF52FF_E9B1_277E_41D3_599B96078AE0.text = GIMNASIO
+Label_FA76F6FC_E971_2F82_41BC_5DCFD4BE50D9.text = GIMNASIO
+Label_9F99C9D4_B82A_04FD_41E5_B64EBAB763CF.text = Julio 2024 México, Estado de México. Universidad Tecnológica de Nezahualcóyotl © 
+Label_932AC3CF_B83A_04EC_41D6_BAC01F469CB2.text = Julio 2024 México, Estado de México. Universidad Tecnológica de Nezahualcóyotl © 
+Label_FA2A7A30_E97F_E682_41E1_629777D99A2C.text = LABORATORIO DE GESTIÓN DE LA PRODUCCIÓN
+Label_FF4AEE73_E991_5E86_41DF_4DE59A412596.text = LABORATORIO DE GESTIÓN DE LA PRODUCCIÓN
+Label_FEC92BA0_E991_6582_41D9_273C04F593A0.text = LABORATORIO DE INFORMÁTICA
+Label_FA62E7A1_E972_ED82_41C6_833A699BF72A.text = LABORATORIO DE INFORMÁTICA
+Label_FFDA6254_E991_E682_41C0_58447BE7AA09.text = LABORATORIO DE REDES
+Label_FBBA40D7_E97F_638E_41E1_156A408BCE5E.text = LABORATORIO DE REDES
+Label_F143C5D3_E99E_ED86_41E0_8734E9F4BC3D.text = LABORATORIO DE TECNOLOGÍA AMBIENTAL
+Label_F167D31C_E99F_2682_41E3_7566DF817DBF.text = LABORATORIO DE TECNOLOGÍA AMBIENTAL
+Label_FB159972_E971_2286_41EA_5361E92AABFD.text = LABORATORIO DE TELEMÁTICA
+Label_FFF90124_E993_2282_41E2_1CD44285C479.text = LABORATORIO DE TELEMÁTICA
+Label_FFFE225A_E991_2686_41D2_9229129F381F.text = PALAPAS
+Label_FA28F1C6_E97E_E58E_41B7_F26797F25D68.text = PALAPAS
+Label_F832D78D_E87D_2AAF_41C8_4A76F45AD8BD.text = PLAZA " SOR JUANA INÉS DE LA CRUZ"
+Label_FF429EFE_E973_7F7E_41D8_5191891EB3F7.text = PLAZA " SOR JUANA INÉS DE LA CRUZ"
+Label_FC8EC8F0_E973_2382_41D5_69673506E1CF.text = PLAZA " ÁRBOL DE CONOCIMIENTO"
+Label_F9638123_E87D_279B_41D0_15D67845B4CE.text = PLAZA " ÁRBOL DE CONOCIMIENTO"
+Label_FC0ED9D7_E971_258E_41E8_1343FC34C22E.text = PLAZA "BICENTENARIO"
+Label_FA5C6A8E_E971_279E_4163_A7CCC0D8AC98.text = PLAZA "BICENTENARIO"
+Label_FA6E1E50_E875_3DB5_41B2_F71658357E3E.text = PLAZA "RIGOBERTA MENCHÚ TUM"
+Label_FF5E50AC_E971_6382_41E9_F361DA1945F5.text = PLAZA "RIGOBERTA MENCHÚ TUM"
+Label_A13A45E6_B86A_0CDC_41DD_D4E03E957E1B.text = RECORRIDO VIRTUAL
+Label_A2D576B0_B86E_0CB4_41D2_AF7BEFE975EB.text = RECORRIDO VIRTUAL
+Label_FBD50AFC_E971_2782_41E5_3EFEBE46D521.text = RECTORÍA
+Label_FFBBFE65_E996_FE82_41C6_62984EB8C9B2.text = RECTORÍA
+Label_FB5C920F_E971_E69E_41DE_22FE9A566DD9.text = SECRETARÍA ACADÉMICA
+Label_FF70992B_E997_6286_41D7_9BC379582705.text = SECRETARÍA ACADÉMICA
+Label_A13A35E6_B86A_0CDC_41E0_DB6129F4A92D.text = UTN
+Label_A2D566B0_B86E_0CB4_41DD_3E87F64383AE.text = UTN
+Label_04752DBF_2787_119C_41BB_A6F1F92637EE.text = ÁREAS VERDES Y DEPORTIVAS
+Label_07993428_2783_16A4_41B0_933183CDD557.text = ÁREAS VERDES Y DEPORTIVAS
+
+### Imágen
+Image_04FF3C2C_1216_7593_41AF_91EA0BBCCE77_mobile.url = skin/Image_04FF3C2C_1216_7593_41AF_91EA0BBCCE77_mobile_es-MX.png
+Image_A13A55E6_B86A_0CDC_41D9_E8CCD54660A6.url = skin/Image_A13A55E6_B86A_0CDC_41D9_E8CCD54660A6_es-MX.png
+Image_A1E26A3C_B86A_07AC_41E3_64F5B4B208B2.url = skin/Image_A1E26A3C_B86A_07AC_41E3_64F5B4B208B2_es-MX.png
+Image_A2D586B0_B86E_0CB4_41B5_13CEA7969C33.url = skin/Image_A2D586B0_B86E_0CB4_41B5_13CEA7969C33_es-MX.png
+Image_A36E3039_B816_03B4_41B5_4BD3D0D24264.url = skin/Image_A36E3039_B816_03B4_41B5_4BD3D0D24264_es-MX.jpg
+
+### Texto Multilínea
+HTMLText_0B1CF751_121B_B3B2_41AA_8DF6E24BB6F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:95%;text-align:left;font-size:10.80647222222224vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:10.81vmin;font-family:'Otama.ep';"><B>Universidad Tecnológica de Nezahualcóyotl</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.34vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.357138888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:4.36vmin;font-family:'Antonio';"><B>ANTECEDENTES</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.78vmin;font-family:'Open Sans Semibold';">En la década de los noventas en el país surgió la demanda de una oferta educativa que permitiera a sus estudiantes desarrollar habilidades con una vocación más práctica que teórica, similar al de Estados Unidos, Canadá, Japón, Inglaterra y Francia. Fue así que en 1991 se crean las primeras Universidades Tecnológicas de Aguascalientes, Tula-Tepeji y Nezahualcóyotl, fundadoras del Subsistema de Universidades Tecnológicas.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.78vmin;font-family:'Open Sans Semibold';">La Universidad Tecnológica de Nezahualcóyotl (UTN), fue edificada en los predios donde se encontraba el Club Deportivo Familiar de Ciudad Nezahualcóyotl y el Estadio Neza 86, inmueble que a la fecha forma parte de las instalaciones deportivas universitarias.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.78vmin;font-family:'Open Sans Semibold';">Gracias a su ubicación geográfica, la UTN desde su creación el 9 de septiembre de 1991, satisface al crecimiento industrial empresarial existente en la zona, así como la necesidad de estudios superiores acordes con la realidad empresarial de jóvenes provenientes de Nezahualcóyotl y de los municipios aledaños como Chalco, Chimalhuacán, Ixtapaluca, Los Reyes La Paz, Texcoco, Valle de Chalco y las delegaciones de Iztapalapa, Iztacalco, Venustiano Carranza y Gustavo A. Madero, entre otras.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.78vmin;font-family:'Open Sans Semibold';">Al inicio de sus funciones, esta Universidad ofertó las carreras de Procesos de Producción, Informática y Computación, Administración de Empresas y Comercialización. Posteriormente en 1995 se impartió la carrera de Tecnología Ambiental y un año después Telemática. A partir de septiembre de 2009 se imparten cuatro Ingenierías en: Negocios y Gestión Empresarial, Tecnologías de la Producción, Tecnología Ambiental y Tecnologías de la Información y Comunicación y en septiembre de 2013 se oferta la Ingeniería en Mecatrónica y Redes Inteligentes y Ciberseguridad.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.78vmin;font-family:'Open Sans Semibold';">En la actualidad, la UTN ofrece 17 carreras y 3 maestrías mediante un modelo diferente a las universidades tradicionales, ya que desde el comienzo el alumno tiene contacto con el sector productivo mediante una formación teórico-práctica que le permite de manera progresiva, conocer el ámbito laboral y al concluir, le facilita insertarse al ejercicio profesional, con la opción de una doble titulación ya que en dos años obtiene el Título de Técnico Superior Universitario; posteriormente en un año 8 meses más, puede continuar sus estudios y concluir una Ingeniería o Licenciatura. Además la maestría en 2 años.</SPAN></SPAN></DIV></div>
+HTMLText_A1E1EA3C_B86A_07AC_41CD_9AB34E4C9A30.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.270000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.27vh;font-family:'Antonio';"><B>ANTECEDENTES</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.4471780028943566vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.45vh;font-family:'Open Sans Semibold';">En la década de los noventas en el país surgió la demanda de una oferta educativa que permitiera a sus estudiantes desarrollar habilidades con una vocación más práctica que teórica, similar al de Estados Unidos, Canadá, Japón, Inglaterra y Francia. Fue así que en 1991 se crean las primeras Universidades Tecnológicas de Aguascalientes, Tula-Tepeji y Nezahualcóyotl, fundadoras del Subsistema de Universidades Tecnológicas.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.4471780028943566vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.45vh;font-family:'Open Sans Semibold';">La Universidad Tecnológica de Nezahualcóyotl (UTN), fue edificada en los predios donde se encontraba el Club Deportivo Familiar de Ciudad Nezahualcóyotl y el Estadio Neza 86, inmueble que a la fecha forma parte de las instalaciones deportivas universitarias.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.4471780028943566vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.45vh;font-family:'Open Sans Semibold';">Gracias a su ubicación geográfica, la UTN desde su creación el 9 de septiembre de 1991, satisface al crecimiento industrial empresarial existente en la zona, así como la necesidad de estudios superiores acordes con la realidad empresarial de jóvenes provenientes de Nezahualcóyotl y de los municipios aledaños como Chalco, Chimalhuacán, Ixtapaluca, Los Reyes La Paz, Texcoco, Valle de Chalco y las delegaciones de Iztapalapa, Iztacalco, Venustiano Carranza y Gustavo A. Madero, entre otras.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_C88F3FBF_E1C3_53FA_41D1_94A34B7EA4EB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.270000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.27vh;font-family:'Antonio';"><B>CARRERAS NIVEL INGENIERÍA /LICENCIATURA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Si quieres saber más acerca de las carreras a nivel Ingeniería y Licenciatura te invitamos a que visites el enlace o sigas con el recorrido:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/nivel-ingenieria-licenciatura" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:1.56vh;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/nivel-ingenieria-licenciatura</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_CB7BC8B6_E1C3_5D8D_41CB_0D6442FED729.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.270000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.27vh;font-family:'Antonio';"><B>CARRERAS NIVEL TSU</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Si quieres saber más acerca de las carreras a nivel Técnico Superios Universitario te invitamos a que visites el enlace o sigas con el recorrido:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/nivel-tsu" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:1.56vh;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/nivel-tsu</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_C7A16E15_E0C1_B48F_41DE_D0F467E93421.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.270000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.27vh;font-family:'Antonio';"><B>CONVOCATORIAS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Para saber más acerca de las convocatorias de nuestra casa de etudios te recomendamos visites el siguiente enlace:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/convocatorias" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:1.56vh;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/convocatorias</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_CB2500D2_E1BE_ED8A_41E2_40950C63AB42.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.270000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.27vh;font-family:'Antonio';"><B>INSCRIPCIONES</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Para saber más sobre el proceso y lo necesario para las inscripciones da clic en el siguiente enlace:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/inscripciones" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:1.56vh;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/inscripciones</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_C9F8A04E_E1C1_6C9A_417B_52C94CCE4DDA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.270000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.27vh;font-family:'Antonio';"><B>MAESTRÍAS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Si quieres saber más acerca de las maestrias te invitamos a que visites el enlace o sigas con el recorrido:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/maestrias" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:1.56vh;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/maestrias</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_C7D897F2_E141_7385_41DA_7B71B05D3FFD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.270000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.27vh;font-family:'Antonio';"><B>PRECIOS Y TARIFAS UTN 2024</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Puedes descargar el PDF directamente dando clic en el botón de descargar, verlo en el botón de ver o visitar el enlace y descargarlo tu mismo en:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/cuotas-escolares" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:1.56vh;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/cuotas-escolares</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A2C631F1_B816_04B4_41B4_B997DD723A7B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.27vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.6049204052098416vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:2.6vh;font-family:'Antonio';"><B>Esta es la ubicación exacta en donde se encuentra nuestra casa de estudios la Universidad Tecnológica de Nezahualcóyotl</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8813314037626632vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.88vh;font-family:'Open Sans Semibold';"><B>Dirección:</B></SPAN><SPAN STYLE="color:#666666;font-size:1.88vh;font-family:'Open Sans Semibold';"><B> </B></SPAN><SPAN STYLE="color:#666666;font-size:1.88vh;font-family:'Open Sans Semibold';">Universidad Tecnológica de Nezahualcóyotl, Cto. Rey Nezahualcóyotl Manzana 010, Benito Juárez, 57000 Cdad. Nezahualcóyotl, Méx.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.88vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A403D17A_EBB1_2286_41BB_4526872C2A8B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:2.5vh;font-family:'Antonio';"><B>PRECIOS Y TARIFAS UTN 2024</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.5vh;font-family:'Open Sans Semibold';">Puedes descargar el PDF directamente dando clic en el botón de descargar, verlo en el botón de ver o visitar el enlace y descargarlo tu mismo en:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:2.500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/cuotas-escolares" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:2.5vh;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/cuotas-escolares</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A36FC039_B816_03B4_41B3_6A34FFF5BF08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.5900000000000043vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:3.59vh;font-family:'Antonio';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.5900000000000043vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:3.59vh;font-family:'Antonio';"><B>CONTACT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">E-mail:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> Info@loremipsum.com </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Web: </SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Tlf.:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';"> line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5600000000000014vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Address line 2</SPAN></SPAN></DIV></div>
+HTMLText_A1E1DA3C_B86A_07AC_41A8_C5EE0EB6B22A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4471780028943566vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.45vh;font-family:'Open Sans Semibold';">Al inicio de sus funciones, esta Universidad ofertó las carreras de Procesos de Producción, Informática y Computación, Administración de Empresas y Comercialización. Posteriormente en 1995 se impartió la carrera de Tecnología Ambiental y un año después Telemática. A partir de septiembre de 2009 se imparten cuatro Ingenierías en: Negocios y Gestión Empresarial, Tecnologías de la Producción, Tecnología Ambiental y Tecnologías de la Información y Comunicación y en septiembre de 2013 se oferta la Ingeniería en Mecatrónica y Redes Inteligentes y Ciberseguridad.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4471780028943566vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.45vh;font-family:'Open Sans Semibold';">En la actualidad, la UTN ofrece 17 carreras y 3 maestrías mediante un modelo diferente a las universidades tradicionales, ya que desde el comienzo el alumno tiene contacto con el sector productivo mediante una formación teórico-práctica que le permite de manera progresiva, conocer el ámbito laboral y al concluir, le facilita insertarse al ejercicio profesional, con la opción de una doble titulación ya que en dos años obtiene el Título de Técnico Superior Universitario; posteriormente en un año 8 meses más, puede continuar sus estudios y concluir una Ingeniería o Licenciatura. Además la maestría en 2 años.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_C7AE2E14_E0C1_B48D_41E3_AB4586F1FECB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.63000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:5.63vh;font-family:'Otama.ep';"><B>SECRETARÍA ACADÉMICA</B></SPAN></SPAN></DIV></div>
+HTMLText_A1E21A3C_B86A_07AC_419E_1736D992A3B6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.63000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:5.63vh;font-family:'Otama.ep';"><B>Universidad Tecnológica de Nezahualcóyotl</B></SPAN></SPAN></DIV></div>
+HTMLText_A36F9039_B816_03B4_41E0_090347C73BB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.63000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:5.63vh;font-family:'Otama.ep';">CONTACTO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11.019999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:11.02vh;font-family:'Otama.ep';"><B>INFORMACIÓN</B></SPAN></SPAN></DIV></div>
+HTMLText_A2C601F1_B816_04B4_41CA_0FA24A35CEA0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.63000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:5.63vh;font-family:'Otama.ep';">UTN</SPAN></SPAN></DIV></div>
+HTMLText_A2C611F1_B816_04B4_41E1_DCE2F4F13335.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.367583212735173vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:6.37vh;font-family:'Otama.ep';"><B>UBICACIÓN</B></SPAN></SPAN></DIV></div>
+HTMLText_0DECCFED_12FA_D26D_418B_9646D02C4859_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.333333333333343vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:8.33vmin;font-family:'Otama.ep';"><B>SECRETARÍA ACADÉMICA</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:5.83vmin;font-family:'Antonio';"><B> </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.357138888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:4.36vmin;font-family:'Antonio';"><B>CONVOCATORIAS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.99vmin;font-family:'Open Sans Semibold';">Para saber más acerca de las convocatorias de nuestra casa de etudios te recomendamos visites el siguiente enlace:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/convocatorias" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:2.99vmin;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/convocatorias</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.357138888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:4.36vmin;font-family:'Antonio';"><B>INSCRIPCIONES</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.99vmin;font-family:'Open Sans Semibold';">Para saber más sobre el proceso y lo necesario para las inscripciones da clic en el siguiente enlace:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/inscripciones" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:2.99vmin;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/inscripciones</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.357138888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:4.36vmin;font-family:'Antonio';"><B>CARRERAS NIVEL TSU</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.99vmin;font-family:'Open Sans Semibold';">Si quieres saber más acerca de las carreras a nivel Técnico Superios Universitario te invitamos a que visites el enlace o sigas con el recorrido:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/nivel-tsu" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:2.99vmin;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/nivel-tsu</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.357138888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:4.36vmin;font-family:'Antonio';"><B>CARRERAS NIVEL INGENIERÍA /LICENCIATURA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.99vmin;font-family:'Open Sans Semibold';">Si quieres saber más acerca de las carreras a nivel Ingeniería y Licenciatura te invitamos a que visites el enlace o sigas con el recorrido:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://utn.edomex.gob.mx/nivel-ingenieria-licenciatura" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0099ff;font-size:2.99vmin;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/nivel-ingenieria-licenciatura</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.357138888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e9474b;font-size:4.36vmin;font-family:'Antonio';"><B>MAESTRÍAS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.99vmin;font-family:'Open Sans Semibold';">Si quieres saber más acerca de las maestrias te invitamos a que visites el enlace o sigas con el recorrido:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:80%;text-align:left;font-size:2.9943333333333384vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:2.99vmin;font-family:'Open Sans Semibold';">https://utn.edomex.gob.mx/maestrias</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.99vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.722222222222204vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:9.72vmin;font-family:'Otama.ep';"><B>UTN</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12.222222222222232vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009e60;font-size:12.22vmin;font-family:'Otama.ep';"><B>UBICACIÓN</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.03vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.000000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:5vmin;font-family:'Antonio';"><B>Esta es la ubicación exacta en donde se encuentra nuestra casa de estudios la Universidad Tecnológica de Nezahualcóyotl</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6111111111111134vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';"><B>Dirección:</B></SPAN><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';"><B> </B></SPAN><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Universidad Tecnológica de Nezahualcóyotl, Cto. Rey Nezahualcóyotl Manzana 010, Benito Juárez, 57000 Cdad. Nezahualcóyotl, Méx.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = UTN VR
+
+## Ventana
+
+### Cuerpo
+htmlText_0A715F9A_2481_1265_41A3_1AECF6C8D1EA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:29px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:29px;"><B>Escultura Monumental</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18px;"><B>  •  </B></SPAN>Otro símbolo principal de esta casa de estudios es la escultura de 18 metros de altura y de 70 toneladas llamada “Nezahualcóyotl”, creada por el escultor Manuel Felguérez en 1991 y que ostenta con orgullo los colores del escudo de esta casa de estudios.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18px;"><B>  •  </B></SPAN>La monumental torre metálica representa el avance de la tecnología, la razón de ser de los estudiantes y de los egresados en esta universidad que en todo momento buscan estar a la par de la innovación y la vanguardia.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18px;"><B>  •  </B></SPAN>La forma de la escultura nos permite apreciar desde distintos ángulos una “N” estilizada que constituye la inicial que da nombre a la misma, además el cuerpo de la estructura metálica conjuga diversas figuras geométricas y la punta representa una flecha lanzada hacia el cielo, la razón de ser del avance tecnológico hacia lo alto o hacia el futuro que es abierto e infinito.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18px;"><B>  •  </B></SPAN>El escudo y las esculturas nos identifican como una institución de educación superior que no sólo ofrece calidad educativa, sino que fomenta en quienes formamos parte de ella una identidad de innovación, avance hacia el futuro y el orgullo de pertenecer a un organismo que cumple con las expectativas de la entidad de mantener a egresados con inmejorable nivel de éxito profesional.</SPAN></DIV></BODY></HTML></div>
+htmlText_3EAF9BEF_29A9_F58C_419E_42BA46CB45DA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:30px;"><B>Escultura “El árbol del conocimiento”</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18px;"><B>  •  </B></SPAN><SPAN STYLE="font-size:23px;">Con la finalidad de conmemorar los veinte años de fundación del Subsistema de Universidades Tecnológicas, así como cultivar y fomentar el conocimiento, el artista plástico Enrique Carbajal, mejor conocido como "Sebastián", creó la escultura “El árbol del conocimiento”, la cual fue recibida y colocada en la Universidad Tecnológica de Nezahualcóyotl por ser pionera de este Subsistema.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_0F5DAD6F_2783_16BC_41C0_44F2776C2C95.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc3333;font-size:30px;"><B>Escudo de la UTN</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:15px;"> </SPAN><SPAN STYLE="color:#0066ff;font-size:18px;"><B> • </B></SPAN><SPAN STYLE="font-size:18px;"><B> </B></SPAN>La primera, un campo circular blanco que representa un globo terráqueo cruzado por las siglas del Subsistema de Universidades Tecnológicas (UT) lo que en su conjunto significa que los conocimientos, habilidades y destrezas adquiridos son aplicables a cualquier parte del planeta.</SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"> </SPAN><SPAN STYLE="color:#0066ff;font-size:18px;"><B> • </B></SPAN><SPAN STYLE="font-size:15px;"> </SPAN>La segunda sección consiste en el nombre completo de la Universidad, plasmada alrededor del globo terráqueo que representa el desarrollo tecnológico que se suscita constantemente y reitera que el nivel de esta Institución se encuentra a la altura de cualquier otra en el mundo.</SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:18px;"><B>  • </B></SPAN><SPAN STYLE="color:#0066ff;font-size:15px;"> </SPAN>La tercera parte simboliza el escudo del Rey Poeta Nezahualcóyotl, que hace referencia a los elementos naturales: agua, aire, fuego y tierra; de importancia fundamental en las culturas prehispánicas.</SPAN></DIV><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"> </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"> </SPAN><SPAN STYLE="color:#0066ff;font-size:18px;"><B> •  </B></SPAN>La cuarta sección se conforma por la frase “Excelencia Académica”, que reafirma el compromiso que tiene la UTN de impartir una educación de calidad a los jóvenes de la zona oriente del Estado de México. También aparece el nombre “Estado de México”, entidad federativa en la que se inserta nuestra institución y con la cual refrendamos nuestro compromiso para la educación, el desarrollo social y la vinculación empresarial.</SPAN></DIV></div>
